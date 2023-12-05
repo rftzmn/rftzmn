@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ashaduzzaman Rifat
+<h1 align='center'>Hi there 👋, my name is Ashaduzzaman Rifat</h1>
 #### Frontend End Developer | ReactJs Developer
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/rftzmn/rftzmn/master/banner.png)
 
