@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [rftzmn.vercel.app](rftzmn.vercel.app)
+- 👨‍💻 All of my projects are available at [click here](rftzmn.vercel.app)
 
 - 💬 Ask me about **ReactJS**
 
