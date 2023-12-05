@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rftzmn&label=Profile%20views&color=0e75b6&style=flat" alt="rftzmn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rftzmn" alt="rftzmn" /></a> </p>
-
 - 🔭 I’m currently working on [Shopify Clone](https://github.com/rftzmn/Spotify-Clone)
 
 - 🌱 I’m currently learning **NextJS**
