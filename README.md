@@ -1,6 +1,6 @@
 ### Hi there 👋
 [I'm an inline-style link](https://www.google.com)
-<!--
+
 **rftzmn/rftzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=rftzmn&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=B5DD00&fire=DD5959&currStreakNum=DD0000&sideNums=DD0000&currStreakLabel=FF5D5D&dates=00C4DD&sideLabels=845BDD&stroke=7A71DD&ring=69C8DD)](https://git.io/streak-stats)
