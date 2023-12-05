@@ -3,8 +3,6 @@
 
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/rftzmn/rftzmn/master/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rftzmn&label=Profile%20views&color=0e75b6&style=flat" alt="rftzmn" /> </p>
-
 - 🔭 I’m currently working on [Shopify Clone](https://github.com/rftzmn/Spotify-Clone)
 
 - 🌱 I’m currently learning **NextJS**
@@ -33,6 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rftzmn&show_icons=true&locale=en&layout=compact" alt="rftzmn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rftzmn&show_icons=true&locale=en" alt="rftzmn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rftzmn&" alt="rftzmn" /></p>
