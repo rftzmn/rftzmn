@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rftzmn" alt="rftzmn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rftzmn" target="blank"><img src="https://img.shields.io/twitter/follow/rftzmn?logo=twitter&style=for-the-badge" alt="rftzmn" /></a> </p>
-
 - 🔭 I’m currently working on [Shopify Clone](https://github.com/rftzmn/Spotify-Clone)
 
 - 🌱 I’m currently learning **NextJS**
