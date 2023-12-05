@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashaduzzaman Rifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rftzmn)  
+![I am GitHub Readme Generator's creator](https://lh3.google.com/u/0/d/1wxDAOdBpmqiuBKm7XhGtTVLsDyQQr2D6=w1920-h969-iv2)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rftzmn&label=Profile%20views&color=0e75b6&style=flat" alt="rftzmn" /> </p>
 
