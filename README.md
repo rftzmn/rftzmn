@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashaduzzaman Rifat</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+### Hi there 👋, my name is Ashaduzzaman Rifat
+#### Frontend End Developer | ReactJs Developer
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/rftzmn/rftzmn/master/banner.png)
 
 - 🔭 I’m currently working on [Shopify Clone](https://github.com/rftzmn/Spotify-Clone)
