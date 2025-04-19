@@ -31,3 +31,4 @@
 </p>
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rftzmn&theme=highcontrast)](https://codeforces.com/profile/rftzmn)
+[![Codeforces Stats]https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only]https://codeforces.com/profile/rftzmn)
