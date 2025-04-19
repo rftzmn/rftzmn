@@ -30,7 +30,6 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rftzmn&show_icons=true&locale=en&layout=compact" alt="rftzmn" />
-  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rftzmn&theme=highcontrast)](https://codeforces.com/profile/rftzmn)
 </p>
 
-
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rftzmn&theme=highcontrast)](https://codeforces.com/profile/rftzmn)
