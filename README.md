@@ -3,8 +3,6 @@
 
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/rftzmn/rftzmn/master/banner.png)
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rftzmn&theme=highcontrast)](https://codeforces.com/profile/rftzmn)
-
 - 🔭 I’m currently working on [Shopify Clone](https://github.com/rftzmn/Spotify-Clone)
 
 - 🌱 I’m currently learning **NextJS**
