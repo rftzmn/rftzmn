@@ -28,7 +28,7 @@
   </a>
 </div>
 
-###
+<hr/>
 
 <h2 align="center">🚀 Languages and Tools</h2>
 <div align="center">
@@ -53,12 +53,11 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
 </div>
 
-###
+<hr/>
 
 [![Codeforces Stats](https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/rftzmn)
 
-
-###
+<hr/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rftzmn/rftzmn/output/pacman-contribution-graph-dark.svg">
@@ -66,4 +65,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rftzmn/rftzmn/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<hr/>
