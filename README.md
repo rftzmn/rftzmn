@@ -66,3 +66,4 @@
 </picture>
 
 <hr/>
+<img src="https://raw.githubusercontent.com/rftzmn/rftzmn/output/snake.svg" alt="Snake animation" />
