@@ -29,7 +29,6 @@
 
 
 <hr/>
-<p style="display: flex;"></p><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
 [![Codeforces Stats](https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/rftzmn)
 </p>
