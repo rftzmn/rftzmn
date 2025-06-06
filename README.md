@@ -9,7 +9,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/rftzmn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="25" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/811320594850512897" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -66,6 +66,8 @@
 <hr/>
 
 <div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
 
 [![Codeforces Stats](https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/rftzmn)
 
