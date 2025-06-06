@@ -55,11 +55,7 @@
 
 <hr/>
 
-<div align="center">
 [![Codeforces Stats](https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/rftzmn)
-</div>
-
-
 
 <hr/>
 
