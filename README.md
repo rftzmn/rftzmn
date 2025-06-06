@@ -55,15 +55,12 @@
 
 <hr/>
 
+<div style="text-align: center;">
+![alt text](https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png "Our logo")
 [![Codeforces Stats](https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/rftzmn)
+</div>
+
+
 
 <hr/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rftzmn/rftzmn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rftzmn/rftzmn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rftzmn/rftzmn/output/pacman-contribution-graph.svg">
-</picture>
-
-<hr/>
-<img src="https://raw.githubusercontent.com/rftzmn/rftzmn/output/snake.svg" alt="Snake animation" />
