@@ -60,20 +60,17 @@
   <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" height="40" alt="shadcn/ui"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
-  
 </div>
 
 <hr/>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="80" alt="LeetCode"  />
 <img width="12" />
 <a href="https://codeforces.com/profile/rftzmn" target="_blank">
   <img src="https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only" height="300" alt="Codeforces Stats"  />
   <img width="12" />
 </a>
-
 </div>
 
 <hr/>
