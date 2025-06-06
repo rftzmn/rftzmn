@@ -65,12 +65,14 @@
 <hr/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="80" alt="LeetCode"  />
-<img width="12" />
-<a href="https://codeforces.com/profile/rftzmn" target="_blank">
-  <img src="https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only" height="300" alt="Codeforces Stats"  />
+  <a href="https://leetcode.com/u/rftzmn/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="70" alt="LeetCode"  />
   <img width="12" />
-</a>
+  </a>
+  <a href="https://codeforces.com/profile/rftzmn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only" height="300" alt="Codeforces Stats"  />
+    <img width="12" />
+  </a>
 </div>
 
 <hr/>
