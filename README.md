@@ -56,8 +56,7 @@
 <hr/>
 
 <div style="text-align: center;">
-![alt text](https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png "Our logo")
-[![Codeforces Stats](https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/rftzmn)
+![Codeforces Stats](https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/rftzmn)
 </div>
 
 
