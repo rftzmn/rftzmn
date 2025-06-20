@@ -7,24 +7,17 @@
 <div align="center">
   <a href="https://linkedin.com/in/rftzmn" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin logo"  /></a>
   <img width="12" />
-  <a href="https://x.com/rftzmn" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://discordapp.com/users/811320594850512897" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://dev.to/rftzmn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-  <a href="https://fb.com/rftzmn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/rftzmn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/rftzmn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+  <a href="https://x.com/rftzmn" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="25" alt="twitter logo"  /></a>
+  <img width="12" />
+  <a href="https://discordapp.com/users/811320594850512897" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" height="25" alt="discord logo"  /></a>
+  <img width="12" />
+  <a href="https://dev.to/rftzmn" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
+  <img width="12" />
+  <a href="https://fb.com/rftzmn" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25" alt="facebook logo"  /></a>
+  <img width="12" />
+  <a href="https://www.instagram.com/rftzmn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="instagram logo"  /></a>
+  <img width="12" />
+  <a href="https://t.me/rftzmn" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" height="25" alt="telegram logo"  /></a>
   
 </div>
 
