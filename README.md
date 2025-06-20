@@ -5,9 +5,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/rftzmn" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin logo"  />
-  </a>
+  <a href="https://linkedin.com/in/rftzmn" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin logo"  /></a>
   <img width="12" />
   <a href="https://x.com/rftzmn" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="25" alt="twitter logo"  />
