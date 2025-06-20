@@ -31,7 +31,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="40" alt="typescript logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="40" alt="react logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="40" alt="React Native" />
   <img width="8" />
@@ -39,19 +39,21 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff" height="30" alt="React Query" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="40" alt="nextjs logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff" height="40" alt="redux logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" height="40" alt="sass logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="40" alt="tailwindcss logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" height="30" alt="bootstrap logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" height="40" alt="shadcn/ui"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" height="40" alt="firebase logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" height="40" alt="Three.js logo" />
 </div>
 
 <hr/>
