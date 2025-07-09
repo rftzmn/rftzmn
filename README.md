@@ -61,6 +61,7 @@
 <h2 align="center">DSA Problem Solving</h2>
 <div align="center">
   <a href="https://leetcode.com/u/rftzmn" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="80" alt="LeetCode"  /><img width="12" /></a>
+  <br />
   <a href="https://codeforces.com/profile/rftzmn" target="_blank"><img src="https://raw.githubusercontent.com/rftzmn/codeforces-stats/main/output/light_card.svg#gh-dark-mode-only" height="300" alt="Codeforces Stats"  /><img width="12" /></a>
 </div>
 
